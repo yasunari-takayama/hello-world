@@ -1,4 +1,4 @@
 # hello-world
-first repository
+second repository
 
 Hi new world!
